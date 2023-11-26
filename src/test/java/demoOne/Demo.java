@@ -19,7 +19,8 @@ public class Demo {
 		System.out.println(a / b);
 		System.out.println("sdvdds");
 		String ab = System.getProperty("user.dir");
-		System.out.println(ab);
+		System.out.println(a);
+		
 
 	}
 
