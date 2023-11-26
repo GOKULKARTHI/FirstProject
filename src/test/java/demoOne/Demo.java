@@ -12,7 +12,7 @@ public class Demo {
 
 		System.out.println("Changes");
 		
-		System.out.println("Project Firstdemo is created"
+		System.out.println("Project Firstdemo is created");
 		 
 		 
 	}
