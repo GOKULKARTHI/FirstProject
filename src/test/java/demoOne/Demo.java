@@ -20,6 +20,7 @@ public class Demo {
 		System.out.println("sdvdds");
 		String ab = System.getProperty("user.dir");
 		System.out.println(ab);
+		System.out.println(a);
 
 	}
 
