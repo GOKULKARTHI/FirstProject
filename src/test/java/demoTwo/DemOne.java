@@ -9,6 +9,7 @@ public class DemOne {
 		System.out.println("Test Case 3");
 		System.out.println("Test case 4");
 		System.out.println("Test Case 5");
+		System.out.println("Test case 6");
 
 	}
 
