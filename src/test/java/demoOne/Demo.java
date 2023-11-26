@@ -17,6 +17,7 @@ public class Demo {
 		 a = 80;
 		 b =78;
 		System.out.println(a/b);
+		String ab=System.getProperty("user.dir");
 		 
 		 
 	}
